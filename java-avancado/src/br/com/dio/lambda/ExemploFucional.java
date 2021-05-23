@@ -1,7 +1,6 @@
 package br.com.dio.lambda;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class ExemploFucional {
 
